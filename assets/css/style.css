@@ -50,14 +50,14 @@ h1 {
     flex-flow: row wrap;
     align-content: flex-start;
     justify-content: center;
-    width: 510px;
-    height: 510px;
+    width: 410px;
+    height: 410px;
 }
 
 .box {
-    width: 165px;
-    height: 165px;
-    font-size: 120px;
+    width: 134px;
+    height: 134px;
+    font-size: 100px;
 }
 
 [id="0"] {
